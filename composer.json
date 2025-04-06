@@ -1,0 +1,17 @@
+{
+    "name": "mjees/tests-rendu",
+    "autoload": {
+        "psr-4": {
+            "Mjees\\TestsRendu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marie",
+            "email": "mje.espinosa@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
